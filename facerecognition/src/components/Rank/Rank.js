@@ -7,10 +7,10 @@ const Rank = () => {
 				{'Lian, Your rank is...'}
 			</div>
 			<div className='white f1'>
-				
+				{'#2'}
 			</div>
 	   	</div>
 	);
 }
 
-export default ImageLinkForm;
+export default Rank;
